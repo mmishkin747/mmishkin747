@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mishka</h1>
 <h3 align="center">A passionate network developer from Brest</h3>
 
-- 🔭 I’m currently working on **network monitoring system for UPS**
+- 🔭 I’m currently working on **CLI programs for linux**
 
 - 💬 Ask me about **python, rust**
 
