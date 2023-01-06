@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CLI programs for linux**
 
-- 💬 Ask me about **python, rust**
+- 💬 Ask me about **python, rust, cisco**
 
 - 📫 How to reach me **mmishkin747@gmail.com**
 
